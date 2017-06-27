@@ -1,0 +1,13 @@
+{
+    "name": "mindgruve/wordpress",
+    "description": "Composerified WordPress",
+    "license": "GPLv2",
+    "type": "wordpress-core",
+    "authors": [
+        {
+            "name": "Kevin Simpson",
+            "email": "ksimpson@mindgruve.com"
+        }
+    ],
+    "require": {}
+}
